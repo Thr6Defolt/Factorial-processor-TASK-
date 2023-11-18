@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\bin\Debug\net6.0\Factorial processor(TASK).exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\bin\Debug\net6.0\Factorial processor(TASK).deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\bin\Debug\net6.0\Factorial processor(TASK).runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\bin\Debug\net6.0\Factorial processor(TASK).dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\bin\Debug\net6.0\Factorial processor(TASK).pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\Factorial processor(TASK).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\Factorial processor(TASK).AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\Factorial processor(TASK).AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\Factorial processor(TASK).csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\Factorial processor(TASK).dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\refint\Factorial processor(TASK).dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\Factorial processor(TASK).pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\Factorial processor(TASK).genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor(TASK)\Factorial processor(TASK)\obj\Debug\net6.0\ref\Factorial processor(TASK).dll
